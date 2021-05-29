@@ -22,9 +22,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-!Fastifyjs](https://img.shields.io/badge/-Fastifyjs-000?&logo=Fastify)
+![Fastifyjs](https://img.shields.io/badge/-Fastifyjs-000?&logo=Fastify)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vuejs](https://img.shields.io/badge/-Vue-000?&logo=Vue)
+![Vuejs](https://img.shields.io/badge/-Vue-000?&logo=Vuejs)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 <!-- ### Full Stack Projects
