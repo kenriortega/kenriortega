@@ -17,6 +17,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
 ### Technologies
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -24,7 +25,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Fastifyjs](https://img.shields.io/badge/-Fastifyjs-000?&logo=Fastify)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vuejs](https://img.shields.io/badge/-Vue-000?&logo=Vuejs)
+![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 
 <!-- ### Full Stack Projects
