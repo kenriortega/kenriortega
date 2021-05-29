@@ -30,9 +30,10 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 
-### Other Technologies
+### Interesting Technologies
 
 <img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
+<img align="left" alt="Prometheus" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" />
 <br/>
 
 
