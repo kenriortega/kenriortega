@@ -28,10 +28,11 @@
 ![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
-<img align="left" alt="apache kafka" width="22px" src="https://en.wikipedia.org/wiki/File:Apache_kafka.svg" />
-<!-- ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing) -->
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+
+<!-- [![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing) --> -->
 ### Stats
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kenriortega" />
