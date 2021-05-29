@@ -28,9 +28,9 @@
 ![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
+<img align="left" alt="Apache Kafka" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
 
 ### Stats
 
