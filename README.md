@@ -27,6 +27,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 
 <!-- ### Full Stack Projects
 
