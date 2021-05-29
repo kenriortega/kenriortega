@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to cook cuban & italian food
+- ⚡ Fun fact: i like to hear 🎧 music 🎶 (jazz - lofi - hip hop)
 
-### Languages
+### Languages 🔥
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -19,7 +19,7 @@
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
 
-### Technologies
+### Technologies 💪
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
@@ -30,13 +30,13 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 
-### Interesting Technologies
+### Interesting Technologies ✨
 
 <img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
 <img align="left" alt="Prometheus" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" />
 <br/>
 
 
-### Stats
+### Stats 📈
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kenriortega" />
