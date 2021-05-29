@@ -28,7 +28,7 @@
 ![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
-[<img align="left" alt="apache kafka" width="22px" src="https://en.wikipedia.org/wiki/File:Apache_kafka.svg" />][kafka]
+<img align="left" alt="apache kafka" width="22px" src="https://en.wikipedia.org/wiki/File:Apache_kafka.svg" />
 <!-- ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing) -->
