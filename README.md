@@ -18,6 +18,7 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
+
 ### Technologies
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -28,7 +29,10 @@
 ![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
-<img align="left" alt="Apache Kafka" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
+
+### Other Technologies
+
+<img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
 
 
 
