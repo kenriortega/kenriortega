@@ -33,7 +33,7 @@
 ### Other Technologies
 
 <img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
-
+<br/>
 
 
 ### Stats
