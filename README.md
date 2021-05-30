@@ -30,6 +30,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 
+### Certifications
+
+
+[![Redis](https://img.shields.io/badge/-RU202-000?&logo=Redis)](https://university.redislabs.com/certificates/8d654d8854ba464f8f4991780adb0ef8)
+
 ### Interesting Technologies ✨
 
 <img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
