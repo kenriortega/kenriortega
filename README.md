@@ -14,10 +14,9 @@
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart)
 
 ### Technologies 💪
 
@@ -26,7 +25,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Fastifyjs](https://img.shields.io/badge/-Fastifyjs-000?&logo=Fastify)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 
@@ -36,6 +34,9 @@
 [![Redis](https://img.shields.io/badge/-RU202-000?&logo=Redis)](https://university.redislabs.com/certificates/8d654d8854ba464f8f4991780adb0ef8)
 
 ### Interesting Technologies ✨
+
+![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 <img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
 <img align="left" alt="Prometheus" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" />
