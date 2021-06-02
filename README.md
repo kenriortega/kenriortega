@@ -22,9 +22,11 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Fastifyjs](https://img.shields.io/badge/-Fastifyjs-000?&logo=Fastify)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
 
@@ -38,6 +40,7 @@
 ![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=elasticsearch)
 <img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
 <img align="left" alt="Prometheus" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" />
 <br/>
