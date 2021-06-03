@@ -34,6 +34,7 @@
 
 
 [![Redis](https://img.shields.io/badge/-RU202-000?&logo=Redis)](https://university.redislabs.com/certificates/8d654d8854ba464f8f4991780adb0ef8)
+[![Redis](https://img.shields.io/badge/-RU330-000?&logo=Redis)](https://university.redislabs.com/certificates/041bc3bfb8584bfb8a55f3cd11a0e12c)
 
 ### Interesting Technologies ✨
 
