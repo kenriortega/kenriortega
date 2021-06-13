@@ -1,9 +1,11 @@
 ### Hello world <img src="https://files.aashutosh.dev/hey.gif" width="32px">
 
 
-## I'm a  Developer!! [![Twitter Badge](https://img.shields.io/badge/-@kenriortega-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kenriortega)](https://twitter.com/kenriortega) 
+## I`m [![Twitter Badge](https://img.shields.io/badge/-@kenriortega-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kenriortega)](https://twitter.com/kenriortega) 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-aashutoshrathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashutoshrathi/)](https://www.linkedin.com/in/aashutoshrathi/) -->
-
+a Software Engineer, open source contributor & enthusiast. 
+I have worked on different systems, microservises orchestration and application security. 
+I've used Nodejs and Golang, both for professional and personal projects, providing scalable and distributed systems, web applications and microservices for more than four years.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
