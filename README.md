@@ -14,11 +14,11 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 
 ### Languages 🔥
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Technologies 💪
 
