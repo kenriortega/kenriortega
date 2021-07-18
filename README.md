@@ -58,12 +58,12 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenriortega&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kenriortega's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
+<a href="https://github.com/kenriortega/goproxy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenriortega&repo=goproxy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/kenriortega/fastify-msgpack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenriortega&repo=fastify-msgpack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
