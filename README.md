@@ -16,10 +16,11 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
+<!-- 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-
+ -->
+<!--  
 ### Technologies 💪
 
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -31,13 +32,14 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
-
+-->
+<!--  
 ### Certifications
 
 
 [![Redis](https://img.shields.io/badge/-RU202-000?&logo=Redis)](https://university.redislabs.com/certificates/8d654d8854ba464f8f4991780adb0ef8)
 [![Redis](https://img.shields.io/badge/-RU330-000?&logo=Redis)](https://university.redislabs.com/certificates/041bc3bfb8584bfb8a55f3cd11a0e12c)
-
+-->
 ### Interesting Technologies ✨
 
 ![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
@@ -48,7 +50,7 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 <img align="left" alt="Prometheus" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" />
 <br/>
 
-
+<!--  
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/kenriortega/kenriortega">
@@ -66,4 +68,4 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 <a href="https://github.com/kenriortega/fastify-msgpack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenriortega&repo=fastify-msgpack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-
+-->
