@@ -7,7 +7,7 @@ a Software Engineer, open source contributor & enthusiast.
 I have worked on different systems, microservises orchestration and application security. 
 I've used Nodejs and Golang, both for professional and personal projects, providing scalable and distributed systems, web applications and microservices for more than four years.
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning english for improve my knowledges 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: i like to hear 🎧 music 🎶 (jazz - lofi - hip hop)
@@ -44,6 +44,7 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 
 ![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=elasticsearch)
 <img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
