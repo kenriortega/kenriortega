@@ -51,6 +51,9 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 <img align="left" alt="Prometheus" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" />
 <br/>
 
+
+![Alt](https://repobeats.axiom.co/api/embed/e8a6f1108c30d82f02257df2f5de900e9094e9be.svg "Repobeats analytics image")
+
 <!--  
 ## &#x1f4c8; GitHub Stats
 
