@@ -14,64 +14,36 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 
 ### Languages 🔥
 
-![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-<!-- 
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
- -->
-<!--  
-### Technologies 💪
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=ffffff)
 
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+### DB 💪
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Fastifyjs](https://img.shields.io/badge/-Fastifyjs-000?&logo=Fastify)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&logoColor=ffffff)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDb-000?&logo=mongodb&logoColor=ffffff)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=elasticsearch&logoColor=ffffff)
 
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=postgresql)
--->
-<!--  
-### Certifications
+#### Env
 
+![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
+![Serverless](http://img.shields.io/badge/-Serverless-E2231A?style=flat-square&logo=serverless&logoColor=ffffff)
+&nbsp;
+![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
-[![Redis](https://img.shields.io/badge/-RU202-000?&logo=Redis)](https://university.redislabs.com/certificates/8d654d8854ba464f8f4991780adb0ef8)
-[![Redis](https://img.shields.io/badge/-RU330-000?&logo=Redis)](https://university.redislabs.com/certificates/041bc3bfb8584bfb8a55f3cd11a0e12c)
--->
 ### Interesting Technologies ✨
 
-![Dart](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=ffffff)
 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-000?&logo=elasticsearch)
 <img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
 <img align="left" alt="Prometheus" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" />
 <br/>
 
 
-### Ngonx OSS 🔥
+<!-- ### Ngonx OSS 🔥 -->
 
-![Alt](https://repobeats.axiom.co/api/embed/e8a6f1108c30d82f02257df2f5de900e9094e9be.svg "Repobeats analytics image")
-
-<!--  
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/kenriortega/kenriortega">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenriortega&hide=java,html,vue,css,dart,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
-<a href="https://github.com/kenriortega/kenriortega">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenriortega&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kenriortega's GitHub Stats" />
-</a>
-
-<a href="https://github.com/kenriortega/goproxy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenriortega&repo=goproxy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<!-- ![Alt](https://repobeats.axiom.co/api/embed/e8a6f1108c30d82f02257df2f5de900e9094e9be.svg "Repobeats analytics image") -->
 
 
-<a href="https://github.com/kenriortega/fastify-msgpack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenriortega&repo=fastify-msgpack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
--->
