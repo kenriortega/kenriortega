@@ -9,7 +9,7 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 
 - 🌱 I’m currently learning english for improve my knowledges 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: i like to hear 🎧 music 🎶 (jazz - lofi - hip hop)
 
 ### Languages 🔥
