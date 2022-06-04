@@ -1,4 +1,3 @@
-### Hello world <img src="https://files.aashutosh.dev/hey.gif" width="32px">
 
 
 ## I`m [![Twitter Badge](https://img.shields.io/badge/-@kenriortega-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kenriortega)](https://twitter.com/kenriortega) 
