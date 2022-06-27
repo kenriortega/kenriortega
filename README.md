@@ -1,8 +1,11 @@
 
 
-## I`m [![Twitter Badge](https://img.shields.io/badge/-@kenriortega-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kenriortega)](https://twitter.com/kenriortega) 
+You can follow me here 👉
+[![Twitter Badge](https://img.shields.io/badge/-@kenriortega-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kenriortega)](https://twitter.com/kenriortega) 
 [![Linkedin Badge](https://img.shields.io/badge/-kenriortega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenriortega/)](https://www.linkedin.com/in/kenriortega/) 
-a Software Engineer, open source contributor & enthusiast. 
+
+
+I`m a Software Engineer, open source contributor & enthusiast. 
 I have worked on different systems, microservises orchestration and application security. 
 I've used Nodejs and Golang, both for professional and personal projects, providing scalable and distributed systems, web applications and microservices for more than four years.
 
@@ -33,8 +36,11 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 
 ### Interesting Technologies ✨
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=ffffff)
+![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=ffffff)
+
+
 
 <img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
 <img align="left" alt="Prometheus" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" />
