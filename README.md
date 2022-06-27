@@ -1,6 +1,6 @@
 
 
-You can follow me here 👉
+You can find me here 👉
 [![Twitter Badge](https://img.shields.io/badge/-@kenriortega-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kenriortega)](https://twitter.com/kenriortega) 
 [![Linkedin Badge](https://img.shields.io/badge/-kenriortega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenriortega/)](https://www.linkedin.com/in/kenriortega/) 
 
