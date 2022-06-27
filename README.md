@@ -1,7 +1,7 @@
 
 
 ## I`m [![Twitter Badge](https://img.shields.io/badge/-@kenriortega-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kenriortega)](https://twitter.com/kenriortega) 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-aashutoshrathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aashutoshrathi/)](https://www.linkedin.com/in/aashutoshrathi/) -->
+[![Linkedin Badge](https://img.shields.io/badge/-kenriortega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenriortega/)](https://www.linkedin.com/in/kenriortega/) 
 a Software Engineer, open source contributor & enthusiast. 
 I have worked on different systems, microservises orchestration and application security. 
 I've used Nodejs and Golang, both for professional and personal projects, providing scalable and distributed systems, web applications and microservices for more than four years.
