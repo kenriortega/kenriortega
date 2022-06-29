@@ -10,6 +10,7 @@ I have worked on different systems, microservises orchestration and application 
 I've used Nodejs and Golang, both for professional and personal projects, providing scalable and distributed systems, web applications and microservices for more than four years.
 
 - 🌱 I’m currently learning english for improve my knowledges 🤣
+- 🚀 Also learning apache spark & scala to become me a Data Engineer
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: i like to hear 🎧 music 🎶 (jazz - lofi - hip hop)
@@ -17,8 +18,7 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 ### Languages 🔥
 
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ffffff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=ffffff)
+
 
 ### DB 💪
 
@@ -40,7 +40,8 @@ I've used Nodejs and Golang, both for professional and personal projects, provid
 ![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=ffffff)
 
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=ffffff)
 
 <img align="left" alt="Apache Kafka" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" />
 <img align="left" alt="Prometheus" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" />
