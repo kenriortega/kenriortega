@@ -5,9 +5,7 @@ You can find me here 👉
 [![Linkedin Badge](https://img.shields.io/badge/-kenriortega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenriortega/)](https://www.linkedin.com/in/kenriortega/) 
 
 
-I`m a Software Engineer, open source contributor & enthusiast. 
-I have worked on different systems, microservises orchestration and application security. 
-I've used Nodejs and Golang, both for professional and personal projects, providing scalable and distributed systems, web applications and microservices for more than four years.
+I`m a Devops/Data Engineer, open source contributor programmer & enthusiast. I have 4+ years of hands-on experience in architecting/ automating and optimizing mission critical deployments over medium infrastructure. Proficient with configuration managements tools, data pipelines services & developing CI/CD pipelines.
 
 - 🌱 I’m currently learning english for improve my knowledges 🤣
 - 🚀 Also learning apache spark & scala to become me a Data Engineer
