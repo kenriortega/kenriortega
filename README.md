@@ -22,6 +22,7 @@ I`m a Devops/Data Engineer, open source contributor programmer & enthusiast. I h
 
 ![Elixir](https://img.shields.io/badge/-Elixir-000?&logo=Elixir&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&logoColor=ffffff)
+![c#](https://img.shields.io/badge/-CSharp-000?&logo=CSharp&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ffffff)
 
 
