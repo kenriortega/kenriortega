@@ -8,7 +8,6 @@ You can find me here 👉
 I`m a Devops/Data Engineer, open source contributor programmer & enthusiast. I have 5+ years of hands-on experience in architecting/ automating and optimizing mission critical deployments over medium infrastructure. Proficient with configuration managements tools, data pipelines services & developing CI/CD pipelines.
 
 - 🌱 I’m currently learning english for improve my knowledges 🤣
-- 🚀 Also learning elixir lang on [exercism.org](https://exercism.org)
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: i like to hear 🎧 music 🎶 (jazz - lofi - hip hop) & play video games
