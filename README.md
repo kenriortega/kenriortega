@@ -15,6 +15,7 @@ I`m a Devops/Data Engineer, open source contributor programmer & enthusiast. I h
 ### Languages 🔥
 
 ![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&logoColor=ffffff)
 
 
 ### Interesting Technologies ✨
